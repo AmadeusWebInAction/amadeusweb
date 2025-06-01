@@ -42,7 +42,8 @@ function enrichThemeVars($vars, $what) {
 }
 
 function before_footer_assets() {
-	echo getThemeSnippet('floating-button');
+	if (SITENAME == 'world')
+		echo getThemeSnippet('floating-button');
 }
 
 runFrameworkFile('site');
