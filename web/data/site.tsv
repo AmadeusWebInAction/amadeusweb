@@ -1,10 +1,11 @@
 #key	value
-name	Amadeus Web | Tech
+name	Tech by AMW
 byline	Enriching Progressive Folks
 safeName	amadeuswebtech
 footer-message	***
 siteMenuName	AW Tech
 sections	__
 local-url	http://localhost/amadeusweb/web/
-live-url	https://amadeusweb.com/
+live-url	https://preview.amadeusweb.world/web/
+live-url_final	https://amadeusweb.com/
 year	2019

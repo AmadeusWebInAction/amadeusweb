@@ -1,10 +1,11 @@
 #key	value
-name	Amadeus Web | Owls
+name	WiseOwls by AMW
 byline	Inspire and Unleash the Inner Owl
 safeName	amadeuswebowls
 footer-message	***
 siteMenuName	AW Owls
 sections	__
 local-url	http://localhost/amadeusweb/wiseowls/
-live-url	https://wiseowls.life/
+live-url	https://preview.amadeusweb.world/wiseowls/
+live-url_final	https://wiseowls.life/
 year	2024
