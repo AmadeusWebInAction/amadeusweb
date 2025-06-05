@@ -41,6 +41,12 @@ function enrichThemeVars($vars, $what) {
 	return $vars;
 }
 
+function before_file() {
+	if (!DEFINED('SPLASH')) {
+		echo getSnippet('countdown', CDNPATH . 'snippets/');
+	}
+}
+
 function before_footer_assets() {
 	if (SITENAME == 'world')
 		echo getThemeSnippet('floating-button');
