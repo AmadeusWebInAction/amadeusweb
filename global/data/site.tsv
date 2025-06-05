@@ -1,11 +1,11 @@
 #key	value
-name	Global by AMW
+name	AmadeusWeb | Global
 byline	From Locality upto Global
 safeName	amadeuswebglobal
-footer-message	***
+iconName	global
+footer-message	[Enabling Neighbourhoods to work together, helping out and becoming more progressive](%global-url%india/chennai/pincodes/600034/).
 siteMenuName	AW Global
-sections	themes, start, places
+sections	themes, places
 local-url	http://localhost/amadeusweb/global/
-live-url	https://preview.amadeusweb.world/global/
-live-url_final	https://amadeusweb.site/
+live-url	https://amadeusweb.site/
 year	2024

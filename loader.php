@@ -18,6 +18,9 @@ variables([
 ]);
 
 function site_before_render() {
+	if (SITENAME == 'world' AND variable('node') == 'index')
+		define('SPLASH', true);
+
 	if (DEFINED('SPLASH')) variable('node', 'splash');
 
 	if (DEFINED('NODEPATH'))

@@ -1,11 +1,11 @@
 #key	value
-name	India by AMG
+name	AmadeusWeb Global | India
 byline	Truth Alone Triumphs
 safeName	amadeuswebindia
-footer-message	***
+iconName	india
+footer-message	[AmadeusWeb was born in an age-old city in South India. We want to be Global soon](https://www.youtube.com/watch?v=TlZDDACt8Nw) || [Slowly](%imran-url%/writing/single/nothing/).
 siteMenuName	AW India
-sections	teams, people, states: tamil-nadu
+sections	teams, states: tamil-nadu
 local-url	http://localhost/amadeusweb/global/india/
-live-url	https://preview.amadeusweb.world/global/india/
-live-url_final	https://amadeusweb.site/india/
+live-url	https://amadeusweb.site/india/
 year	2025

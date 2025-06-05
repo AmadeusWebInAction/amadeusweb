@@ -15,7 +15,7 @@ function enrichNodeThemeVars($vars, $where) {
 			[ 'type' => 'whatsapp', 'url' => '919566044722', 'name' => 'WhatsApp Me' ],
 		];
 		$links = [];
-		foreach ($social as $link) { $item = specialLinkVars($link); $links[] = getLink('', $item['url'], $item['class'] . ' fa-2xl me-3', true); }
+		foreach ($social as $link) { $item = specialLinkVars($link); $links[] = getLink('', $item['url'], $item['class'], true); }
 
 		if (endsWith(variable('file'), 'govindaraj/home.php')) {
 			$vars['person-name'] = 'J Govindaraj';

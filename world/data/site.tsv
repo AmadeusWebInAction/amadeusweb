@@ -1,11 +1,11 @@
 #key	value
-name	World by AMW
+name	AmadeusWeb | World
 byline	An Internet of Missions
 safeName	amadeuswebworld
-footer-message	***
+iconName	world
+footer-message	[For Information from and Activity supporting various "Movements In Unison."](%world-url%missions/)
 siteMenuName	AW World
-sections	missions, umbrellas
+sections	how-we-work, missions
 local-url	http://localhost/amadeusweb/world/
-live-url	https://preview.amadeusweb.world/world/
-live-url_final	https://amadeusweb.world/
+live-url	https://amadeusweb.world/
 year	2025
