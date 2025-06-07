@@ -3,7 +3,7 @@
 ||TODO: content - medium prio
 
 ||head-columns: name, about <hr> description
-||row-template: <tr><td class="fw-bold fst-italic">%term%</td><td><span class="text-success fw-bold">%about%</span><hr class="mx-3 my-2">%description%</td></tr>
+||row-template: <tr><td class="fw-bold fst-italic"><a class="navigable" name="%term_mr%"></a>%term%</td><td><span class="text-success fw-bold">%about%</span><hr class="mx-3 my-2">%description%</td></tr>
 
 ||About: Concepts of the AmadeusWeb Network.
 ||Description: This page explains some of the broad concepts of the AmadeusWeb Network.
@@ -14,3 +14,8 @@
 DEEP	Divine Energy Exchange for Progeny	Explains how [Value Derived](%url%some-concepts/value-derived/BTNSITE) will be declared and actual financial transfer will be OUTSIDE the ecosystem, not enforced.
 Git	An Opensource Technology for backing up, tracking and syncing our entire website.	Offers a compelling reason of transparency to communities and conversations with AI (a manual process for now).
 Truth Store	The Code, Content, Ideas and Developments ARE made available.	However, its proprietary and given in the same spirit that "truth stores" are.
+No Forking	This is about the spirit in which the framework is given.	It's not (YET) free and may not be until 2026/27. For now, it cannot be just "taken and modified."
+
+|Architectural Spirit
+|hacking threat
+|Badges of representation (by various organizations)
